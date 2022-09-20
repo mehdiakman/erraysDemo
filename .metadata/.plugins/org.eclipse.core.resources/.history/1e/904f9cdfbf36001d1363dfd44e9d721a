@@ -1,0 +1,23 @@
+
+public class forloobs {
+
+	public static void main(String[] args) {
+		//Birbirine benzeyen işleri tekrarlamaya yarar.
+		
+		for(int i=1;i<=10;i++) {
+			System.out.println(i);
+		}
+		System.out.println("For Döngüsü Bitti");
+		
+		
+		//i+=2 demek sayıyı 2 şer olarak arttır'
+		for(int i=1;i<=10;i+=2) { 
+			System.out.println(i);
+		}
+		
+		//While 
+		
+		
+	}
+
+}

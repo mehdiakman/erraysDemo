@@ -1,0 +1,15 @@
+package iintro;
+
+public class Main {
+// main javada başlangıç noktasıdır
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+		
+		// VERİ ATAMA =
+		String ortaMetin = "İlginizi Çekebilir";
+		String altMetin = "Vade Süresi";
+		
+		System.out.println(ortaMetin);
+	}
+
+}

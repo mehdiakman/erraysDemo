@@ -1,0 +1,12 @@
+
+public class forloobs {
+
+	public static void main(String[] args) {
+		//Birbirine benzeyen işleri tekrarlamaya yarar.
+		
+		for(int i=1;i<10;i++) {
+			System.out.println(i);
+		}
+	}
+
+}
